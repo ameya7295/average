@@ -2,6 +2,14 @@
 #include "average.h"
 using namespace std;
 
+Avg::Avg()
+{
+}
+
+Avg::~Avg()
+{
+}
+
 double Avg::avgIs(int *arr, int size)
 {
 	for (i = 0; i < size; i++)

@@ -1,6 +1,8 @@
 class Avg
 {
 public:
+	Avg();
+	~Avg();
 	double avgIs(int *arr, int size);
 	double acceptNum();
 private:
