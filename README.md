@@ -1,5 +1,5 @@
 # average
-Improvrement:
+Improvement:
 1. Need improvement in handling signal.
 2. Using dynamic array will be good.
 
